@@ -86,7 +86,7 @@ strong {
 }
 
 marquee {
-    color: orangered;
+    color: #722F64;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: medium;
 }
@@ -168,8 +168,12 @@ marquee {
     margin-top: 20px;
 }
 .table, th, td {
-    border: 2px solid #985f0d;
+    border: 2px solid #F2901F;
 }
 tr:hover {
     background-color: lightgrey;
+}
+.container
+{
+    background-color: white;
 }
